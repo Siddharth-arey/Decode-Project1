@@ -1,44 +1,32 @@
-# DecodeLabs Data Analytics Internship – Project 1
+# 📊 Data Cleaning Project
 
-## Project Title
-Data Cleaning & Preparation
+This project was completed as part of the **DecodeLabs Data Analytics Internship**.
 
-## Overview
-This project focuses on cleaning and preparing a raw dataset using Python and Pandas. The dataset was processed by identifying missing values, checking for duplicate records, validating data types, and preparing it for further analysis.
+## 🚀 Project Overview
 
-## Objectives
-- Import the dataset into Jupyter Notebook.
-- Identify and handle missing values.
-- Check and remove duplicate records.
-- Verify duplicate Order IDs.
-- Validate date and other data formats.
-- Export the cleaned dataset.
+The objective of this project was to clean and preprocess a dataset using Python and Pandas to make it ready for analysis.
 
-## Technologies Used
+## 🛠️ Tools Used
+
 - Python
 - Pandas
 - Jupyter Notebook
 - Microsoft Excel
 
-## Project Files
-- `Project1_Data_Cleaning.ipynb` – Jupyter Notebook containing the implementation.
-- `Cleaned_Dataset.xlsx` – Cleaned dataset after preprocessing.
+## 📌 Tasks Performed
 
-## Results
-- Missing values handled successfully.
-- Duplicate records checked.
-- Duplicate Order IDs verified.
-- Data types validated.
-- Cleaned dataset exported successfully.
+- Removed duplicate records
+- Handled missing values
+- Corrected data types
+- Cleaned inconsistent data
+- Prepared the dataset for analysis
 
-## Skills Gained
-- Data Cleaning
-- Data Preprocessing
-- Data Validation
-- Python Programming
-- Pandas
-- Jupyter Notebook
+## 📂 Repository Files
 
-## Author
+- Dataset for Data Analytics.xlsx
+- Cleaned_Dataset.xlsx
+- Project1_Data_Cleaning.ipynb
+
+## 👩‍💻 Author
+
 **Siddharth Arey**
-*This project was completed as part of the DecodeLabs Data Analytics Internship.*
